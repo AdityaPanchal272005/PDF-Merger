@@ -31,25 +31,16 @@ export default function Contact() {
             </span>
             <div>
               <div className="text-gray-300">Email</div>
-              <div className="text-gray-100 text-sm">support@pdfmerger.com<br />info@pdfmerger.com</div>
+              <div className="text-gray-100 text-sm">adityapanchal272005@gmail.com</div>
             </div>
           </div>
-          <div className="flex items-center gap-4 mb-4">
+          <div className="flex items-center gap-4">
             <span className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-blue-700 text-white">
               <svg width="22" height="22" fill="none" viewBox="0 0 24 24"><path d="M6.5 2h11A4.5 4.5 0 0 1 22 6.5v11A4.5 4.5 0 0 1 17.5 22h-11A4.5 4.5 0 0 1 2 17.5v-11A4.5 4.5 0 0 1 6.5 2Z" stroke="currentColor" strokeWidth="1.5"/><path d="M12 17.25a5.25 5.25 0 1 0 0-10.5 5.25 5.25 0 0 0 0 10.5Z" stroke="currentColor" strokeWidth="1.5"/></svg>
             </span>
             <div>
               <div className="text-gray-300">Phone</div>
-              <div className="text-gray-100 text-sm">+1 (555) 123-4567<br />Mon-Fri, 9am-5pm EST</div>
-            </div>
-          </div>
-          <div className="flex items-center gap-4">
-            <span className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-blue-700 text-white">
-              <svg width="22" height="22" fill="none" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.477 2 12c0 5.523 4.477 10 10 10s10-4.477 10-10c0-5.523-4.477-10-10-10Zm0 18a8 8 0 1 1 0-16 8 8 0 0 1 0 16Zm0-14a6 6 0 1 0 0 12A6 6 0 0 0 12 6Z" fill="currentColor"/></svg>
-            </span>
-            <div>
-              <div className="text-gray-300">Address</div>
-              <div className="text-gray-100 text-sm">123 PDF Street, Suite 456<br />Document City, DC 10101<br />United States</div>
+              <div className="text-gray-100 text-sm">+91 83208 12620</div>
             </div>
           </div>
         </div>
